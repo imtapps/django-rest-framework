@@ -1,0 +1,14 @@
+*.pyc
+*.db
+*~
+.*
+
+html/
+coverage/
+build/
+dist/
+*.egg-info/
+MANIFEST
+
+!.gitignore
+!.travis.yml
